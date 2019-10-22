@@ -1,0 +1,6 @@
+## requirements.txt
+## python3 -m pip install -r requirements-dev.txt
+
+requests-mock
+-e .
+
